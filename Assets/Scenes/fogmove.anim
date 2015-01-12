@@ -17,15 +17,15 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: {x: -1.66950035, y: .754461169, z: 0}
-        inSlope: {x: .286927551, y: .00019468012, z: 0}
-        outSlope: {x: .286927551, y: .00019468012, z: 0}
-        tangentMode: 59
+        value: {x: -3.39120579, y: .706706583, z: 0}
+        inSlope: {x: .316524833, y: .000386130239, z: 0}
+        outSlope: {x: .316524833, y: .000386130239, z: 0}
+        tangentMode: 182357064
       - time: 21
-        value: {x: 4.35597849, y: .758549452, z: 0}
-        inSlope: {x: .286927551, y: .00019468012, z: 0}
-        outSlope: {x: .286927551, y: .00019468012, z: 0}
-        tangentMode: 1711305317
+        value: {x: 3.25581598, y: .714815319, z: 0}
+        inSlope: {x: .316524833, y: .000386130239, z: 0}
+        outSlope: {x: .316524833, y: .000386130239, z: 0}
+        tangentMode: 7602292
       m_PreInfinity: 2
       m_PostInfinity: 2
     path: 
@@ -68,14 +68,14 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: -1.66950035
-        inSlope: .286927551
-        outSlope: .286927551
+        value: -3.39120579
+        inSlope: .316524833
+        outSlope: .316524833
         tangentMode: 10
       - time: 21
-        value: 4.35597849
-        inSlope: .286927551
-        outSlope: .286927551
+        value: 3.25581598
+        inSlope: .316524833
+        outSlope: .316524833
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2
@@ -87,14 +87,14 @@ AnimationClip:
       serializedVersion: 2
       m_Curve:
       - time: 0
-        value: .754461169
-        inSlope: .00019468012
-        outSlope: .00019468012
+        value: .706706583
+        inSlope: .000386130239
+        outSlope: .000386130239
         tangentMode: 10
       - time: 21
-        value: .758549452
-        inSlope: .00019468012
-        outSlope: .00019468012
+        value: .714815319
+        inSlope: .000386130239
+        outSlope: .000386130239
         tangentMode: 10
       m_PreInfinity: 2
       m_PostInfinity: 2

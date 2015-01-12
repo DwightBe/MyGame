@@ -23,9 +23,11 @@ public class PlayerMovement : MonoBehaviour {
 
 	void FixedUpdate ()
 	{	
+
 		// Cache the horizontal input.
 		float h = Input.GetAxis("Horizontal");
-		//float v = Input.GetAxis("Vertical");
+
+	
 
 		anim.SetFloat("Speed", Mathf.Abs(h));
 
@@ -65,6 +67,7 @@ public class PlayerMovement : MonoBehaviour {
 		theScale.x *= -1;
 		transform.localScale = theScale;
 	}
+
 
 	void OnTriggerStay2D(Collider2D other)
 	{
